@@ -3,19 +3,19 @@
 const fs = require('fs')
 const chalk = require('chalk')
 const {
-   indonesia
+   english
 } = require("./File/language");
 
 /*--------------------------------------------*/
 
 // Owner
-global.ownername = '𝐓𝐨𝐱𝐱𝐢𝐜 𝐁𝐨𝐲' //ur owner name
+global.ownername = 'matalent' //ur owner name
 /*--------------------------------------------*/
 
 // Information
 global.botname = '𝑸𝒖𝒆𝒆𝒏 𝑹𝒊𝒂𝒔 𝑽𝟐' //ur bot name
-global.ownernumber = '2348165846414' //ur owner number
-global.premium = ["2348165846414"] // Premium User
+global.ownernumber = '255676644789' //ur owner number
+global.premium = ["255676644789"] // Premium User
 /*--------------------------------------------*/
 // Type Choose true or false
 global.typemenu = 'v12' // menu type 'v1' => 'v12'
@@ -30,8 +30,8 @@ global.groupevent = false //show update messages in group chat
 /*-----------------------------------------------------*/
 
 // Telegram
-global.OWNER = ["2348165846414"]
-global.OWNER_NAME = "𝑻𝑶𝑿𝑿𝑰𝑪 𝑩𝑶𝒀"
+global.OWNER = ["255686679448"]
+global.OWNER_NAME = "matalent"
 global.BOT_TOKEN = '-'
 global.APIKeys = {
    'https://api.zeeoneofc.my.id': '-',
@@ -39,7 +39,7 @@ global.APIKeys = {
 global.BOT_NAME = "𝑸𝑼𝑬𝑬𝑵 𝑹𝑰𝑨𝑺 𝑽𝟐"   
 global.THUMBNAIL = "./File/image/lol.jpg"
 global.DONASI = "./File/image/donasi.jpg"
-global.language = indonesia
+global.language = english 
 global.lang = language //don't change
 
 /*--------------------------------------------*/
@@ -70,7 +70,7 @@ global.APIs = {
 /*--------------------------------------------*/
 
 // Prefix & Premium
-global.xprefix = '.'
+global.xprefix = '/'
 global.hituet = 0
 
 /*--------------------------------------------*/
